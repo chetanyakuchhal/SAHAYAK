@@ -79,11 +79,4 @@ The app is optimized for Vercel. Just connect your GitHub repo, add your product
 
 ---
 
-## 👨‍💻 Author
 
-**Atish Kumar**
-- GitHub: [atishkr25](https://github.com/atishkr25)
-- Twitter: [@atishkr25](https://twitter.com/atishkr25)
-
----
-© Sahayak Inc. 2026.
